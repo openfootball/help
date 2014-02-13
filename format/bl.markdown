@@ -1,10 +1,10 @@
-% Try
-% 1) adding formatting with markdown
-% 2) adding auto-generated table of contents (toc) -- how ??
-%
-% - Note: cannot use # for comments. Use % or -- ??
-%         cannot use 1. 2. at the beginng of the line (assumes numbered list)
-%         break lines with 2+ spaces add the end
+% Try   
+% 1) adding formatting with markdown   
+% 2) adding auto-generated table of contents (toc) -- how ??   
+%   
+% - Note: cannot use # for comments. Use % or -- ??   
+%         cannot use 1. 2. at the beginng of the line (assumes numbered list)  
+%         how to break lines ??  - use 2+ spaces add the end of the line   
 %
 
 
