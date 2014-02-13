@@ -1,4 +1,4 @@
-sandbox
-=======
+# Sandbox
 
-sandbox - ideas, blue sky, notes, experiments, etc.
+Be bold. Try out new ideas, collect notes, etc.
+
