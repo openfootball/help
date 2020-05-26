@@ -1,4 +1,4 @@
-# Sandbox
+# Trash Can
 
-Be bold. Try out new ideas, collect notes, etc.
+_A Container for Waste_
 
