@@ -1,4 +1,7 @@
-# Trash Can
+# Help
 
-_A Container for Waste_
+## Questions? Comments?
 
+Send them along to the
+[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
+Thanks!
