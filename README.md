@@ -89,7 +89,7 @@ Option 2) Clone the datasets and update your own private or public copies yourse
 
 
 
-## Contribute / Update Match Scores, Schedules, Leagues    {#contribute}
+## Contribute / Update Match Scores, Schedules, Leagues
 
 #### Q: How can I contribute / update match scores, schedules, leagues, etc.?
 
