@@ -1,23 +1,18 @@
 # Help - Frequently Asked Questions and Answers (FAQs)
 
-
-<div class="toc" markdown="1">
 Contents:
 
-* [Download Pre-Built Copies or Build Your Own](#downloads)
-* [Real-Time Result / Score HTTP JSON API Web Services](#services)
-* [Contribute / Update Match Scores, Schedules, Leagues](#contribute)
-* [League Standings / Stats](#stats)
-* [Text Formtas (Match Schedule / Player / Squads Mini Languages)](#formats)
-* [Export Formats (JSON, CSV, SQL)](#export)
-* [Apps, Apps, Apps](#apps)
-* [Questions? Comments?](#questions)
-</div>
+- [Download Pre-Built Copies or Build Your Own](#download-pre-built-copies-or-build-your-own)
+- [Real-Time Result / Score HTTP JSON API Web Services](#real-time-result--score-http-json-api-web-services)
+- [Contribute / Update Match Scores, Schedules, Leagues](#contribute--update-match-scores-schedules-leagues)
+- [League Standings / Stats](#league-standings--stats)
+- [Text Formtas (Match Schedule / Player / Squads Mini Languages)](#text-formtas-match-schedule--player--squads-mini-languages)
+- [Export Formats (JSON, CSV, SQL)](#export-formats-json-csv-sql)
+- [Apps, Apps, Apps](#apps-apps-apps)
+- [Questions? Comments?](#questions-comments)
 
 
-
-
-## Download Pre-Built Copies or Build Your Own  {#downloads}
+## Download Pre-Built Copies or Build Your Own
 
 #### Q: Where can I get (download) pre-built copies e.g. `football.db`, `worldcup.db`, `england.db` etc.?
 
@@ -67,7 +62,7 @@ it with the world?
 
 
 
-## Real-Time Result / Score HTTP JSON API Web Services  {#services}
+## Real-Time Result / Score HTTP JSON API Web Services
 
 #### Q: Is there any HTTP JSON API service to get live scores for _[your event here]_ e.g. the World Cup 2018 in Russia, the English Premier League 2018/19, the Euro 2020, etc.?
 
@@ -126,7 +121,7 @@ That's it.
 
 
 
-## League Standings / Stats    {#stats}
+## League Standings / Stats
 
 #### Q: How can I add league standings / tables (e.g. number of matches played, won-drawn-lost, goals scored, etc.)?
 
@@ -178,7 +173,7 @@ For example, using the world cup datasets you can (auto-)calculate the all time 
 ```
 
 
-## Text Formtas (Match Schedule / Player / Squads Mini Languages)   {#formats}
+## Text Formtas (Match Schedule / Player / Squads Mini Languages)
 
 #### Q: What kind of text format are you using? Why not use CSV, JSON, or _[your data format here]_?
 
@@ -273,7 +268,7 @@ say hello on the [forum / mailing list](http://groups.google.com/group/opensport
 
 
 
-## Export Formats (JSON, CSV, SQL)    {#export}
+## Export Formats (JSON, CSV, SQL)
 
 #### Q: How can I get datasets in JSON, CSV, SQL or _[your data format here]_?
 
@@ -304,7 +299,7 @@ or _[your data format here]_ etc.  - Bonus: Share your code with the world.
 
 
 
-## Apps, Apps, Apps    {#apps}
+## Apps, Apps, Apps
 
 #### Q: Any real world apps using this?
 
