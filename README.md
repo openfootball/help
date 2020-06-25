@@ -25,9 +25,9 @@ Note: For now only some datasets (e.g. `worldcup.db`) have pre-built database re
 #### Q: How can I get started building my own up-to-date copy using the latest datasets?
 
 A: The recommended quick starter way to build your own up-to-data (local) copy from the online datasets is using datafiles.
-See the [`/datafile` repo](https://github.com/openfootball/datafile) for ready-to-use quick starter datafile samples. 
+See the [`/quick-starter` repo](https://github.com/openfootball/quick-starter) for ready-to-use quick starter datafile samples. 
 
-Let's build a copy of all world cups (from Uruguay 1930 to Russia 2018). Use the [`worldcup.rb` datafile](https://github.com/openfootball/datafile/blob/master/worldcup.rb). Type:
+Let's build a copy of all world cups (from Uruguay 1930 to Russia 2018). Use the [`worldcup.rb` datafile](https://github.com/openfootball/quick-starter/blob/master/worldcup.rb). Type:
 
     $ sportdb new worldcup
     
