@@ -17,17 +17,19 @@ Contents:
 
 ## Troubleshooting
 
-#### Q: I'm getting a "`no match for club >Haringey Borough FC<`" error when building an up-to-date copy using the latest datasets?
+#### Q: I'm getting a "`no match for club`" error when building an up-to-date copy using the latest datasets?
 
 When running `sportdb build` I'm getting the following error:
 
     ** !!! ERROR - no match for club >Haringey Borough FC<
 
-A:  Usually that means that your installed version of the footballdb-clubs library 
+---
+
+A:  Usually that means that your installed version of the [footballdb-clubs library](https://rubygems.org/gems/footballdb-clubs) 
 that ships with pre-built clubs datafiles sourced from 
 [`/clubs`](https://github.com/openfootball/clubs) is out-of-sync (that is, behind) and needs an update. 
 
-You can help yourself and use an up-to-date version using the `--clubs-dir` option.  First download a zip archive
+You can help yourself and use up-to-date datasets using the `--clubs-dir` option.  First download a zip archive
 with the latest datasets from [`/clubs`](https://github.com/openfootball/clubs).
 Click on "Code -> Download ZIP" that gets you the `clubs-master.zip` archive. Now try:
 
@@ -47,7 +49,8 @@ and so on.
 A: You can get (download) pre-built single-file SQLite databases copies (working anywhere, that is, Windows, Mac, Linux, etc.)
 on the releases page. For example, find the `worldcup.db` download at the [`/world-cup` Releases](https://github.com/openfootball/world-cup/releases) page.
 
-Note: For now only some datasets (e.g. `worldcup.db`) have pre-built database releases.
+Note: For now only some datasets (e.g. `worldcup.db`, `england.db`, `deutschland.db` ) have pre-built database releases.
+
 
 
 #### Q: How can I get started building my own up-to-date copy using the latest datasets?
@@ -312,6 +315,13 @@ to CSV, JSON or _[your data format here]_. - Bonus: Share your scripts with the 
 <!--
 Add Example Script in Ruby
 -->
+
+Bonus:  You can find pre-built / ready-to-use (exported) datasets in JSON for various leagues in the [**`/football.json`**](https://github.com/openfootball/football.json) repo
+and for the world cup in the [**`/world-cup.json`**](https://github.com/openfootball/world-cup.json) repo.
+
+What about CSV? You can find pre-built / read-to-use (exported or cached from 3rd parties) datasets in CSV 
+over at the [football.csv org »](https://github.com/footballcsv) 
+
 
 
 #### Q: How can I get datasets in JSON, CSV or _[your data format here]_ using _[your database here]_ e.g. PostgreSQL, MySQL, etc.?
