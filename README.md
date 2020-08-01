@@ -1,15 +1,43 @@
 # Help - Frequently Asked Questions and Answers (FAQs)
 
+
 Contents:
 
+- [Troubleshooting](#troubleshooting)
 - [Download Pre-Built Copies or Build Your Own](#download-pre-built-copies-or-build-your-own)
 - [Real-Time Result / Score HTTP JSON API Web Services](#real-time-result--score-http-json-api-web-services)
 - [Contribute / Update Match Scores, Schedules, Leagues](#contribute--update-match-scores-schedules-leagues)
 - [League Standings / Stats](#league-standings--stats)
-- [Text Formtas (Match Schedule / Player / Squads Mini Languages)](#text-formtas-match-schedule--player--squads-mini-languages)
+- [Text Formats (Match Schedule / Player / Squads Mini Languages)](#text-formats-match-schedule--player--squads-mini-languages)
 - [Export Formats (JSON, CSV, SQL)](#export-formats-json-csv-sql)
 - [Apps, Apps, Apps](#apps-apps-apps)
 - [Questions? Comments?](#questions-comments)
+
+
+
+## Troubleshooting
+
+#### Q: I'm getting a "`no match for club >Haringey Borough FC<`" error when building an up-to-date copy using the latest datasets?
+
+When running `sportdb build` I'm getting the following error:
+
+    ** !!! ERROR - no match for club >Haringey Borough FC<
+
+A:  Usually that means that your installed version of the footballdb-clubs library 
+that ships with pre-built clubs datafiles sourced from 
+[`/clubs`](https://github.com/openfootball/clubs) is out-of-sync (that is, behind) and needs an update. 
+
+You can help yourself and use an up-to-date version using the `--clubs-dir` option.  First download a zip archive
+with the latest datasets from [`/clubs`](https://github.com/openfootball/clubs).
+Click on "Code -> Download ZIP" that gets you the `clubs-master.zip` archive. Now try:
+
+    sportdb build --clubs-dir ./clubs-master.zip
+
+or if you are using a quick starter template use
+
+    sportdb --clubs-dir ./clubs-master.zip new eng
+
+and so on.
 
 
 ## Download Pre-Built Copies or Build Your Own
@@ -173,7 +201,7 @@ For example, using the world cup datasets you can (auto-)calculate the all time 
 ```
 
 
-## Text Formtas (Match Schedule / Player / Squads Mini Languages)
+## Text Formats (Match Schedule / Player / Squads Mini Languages)
 
 #### Q: What kind of text format are you using? Why not use CSV, JSON, or _[your data format here]_?
 
