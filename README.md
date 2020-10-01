@@ -33,7 +33,7 @@ You can help yourself and use up-to-date datasets using the `--clubs-dir` option
 with the latest datasets from [`/clubs`](https://github.com/openfootball/clubs).
 Click on "Code -> Download ZIP" that gets you the `clubs-master.zip` archive. Now try:
 
-    sportdb build --clubs-dir ./clubs-master.zip
+    sportdb --clubs-dir ./clubs-master.zip build 
 
 or if you are using a quick starter template use
 
