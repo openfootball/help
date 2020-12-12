@@ -6,7 +6,7 @@
 Please, note so far this is an all-volunteer-effort from a single humble nobody (or is that a lunatic?). Anyways, just imagine how much more progress there could be if you join in and help out? What an idea. 
 
 
-> Note:  The FAQS are somewhat outdated, sorry (but what can I do? - see above). 
+> Note:  The FAQs are somewhat outdated, sorry (but what can I do? - see above). For now my focus is on... guess what? Yes, more automation to hand off more work to our ye good ol' friend - the computer - to get more football data updates. 
 
 
 
@@ -135,6 +135,13 @@ Option 2) Clone the datasets and update your own private or public copies yourse
 
 #### Q: How can I contribute / update match scores, schedules, leagues, etc.?
 
+**Update (2020)**
+
+**A: The recommended way to contribute football match datasets is using comma-separated values (CSV) datafiles.
+See the [football.csv org](https://github.com/footballcsv) to get started today!**
+
+<details>
+   <summary>**Out-of-date / Historic**</summary>
 A: Your contributions are welcome.
 It works like a wiki, that is, the datasets are plain text documents that anybody can update
 (if you're an openfootball team member - you can update it directly in your browser or push your commits;
@@ -160,7 +167,7 @@ Thu Jun/12 17:00   Brazil  3-1 (1-1)  Croatia
 ```
 
 That's it.
-
+</details>
 
 
 ## League Standings / Stats
