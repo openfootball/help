@@ -110,8 +110,11 @@ it with the world?
 
 A: `football.db` does **NOT OFFER ANY REAL-TIME LIVE** football results / scores services.
 
-However, you can run your own HTTP JSON API web service.
-See the [`sport.db.starter` kits](https://github.com/sportkit) to get started, for example.
+However, you can run your own HTTP JSON API web service. 
+See the official [`sport.db.service`](https://github.com/sportdb/sport.db.service) starter scripts built into 
+the [`sportdb` command line tool](http://sportdb.github.io/). 
+Or see the [`sport.db.starter` kits](https://github.com/sportkit) in JavaScript, Go & friends to get started building your own, for example.
+
 
 <!--
 or try the [example HTTP JSON API service running on Heroku](http://footballdb.herokuapp.com).
@@ -135,13 +138,12 @@ Option 2) Clone the datasets and update your own private or public copies yourse
 
 #### Q: How can I contribute / update match scores, schedules, leagues, etc.?
 
-**Update (2020)**
 
-**A: The recommended way to contribute football match datasets is using comma-separated values (CSV) datafiles.
+**A: (Update 2020) The recommended way to contribute football match datasets is using comma-separated values (CSV) datafiles.
 See the [football.csv org](https://github.com/footballcsv) to get started today!**
 
 <details>
-   <summary>**Out-of-date / Historic**</summary>
+   <summary>Out-of-date / Historic</summary>
 A: Your contributions are welcome.
 It works like a wiki, that is, the datasets are plain text documents that anybody can update
 (if you're an openfootball team member - you can update it directly in your browser or push your commits;
