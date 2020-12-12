@@ -1,5 +1,9 @@
-# Help - Frequently Asked Questions and Answers (FAQs)
+# Help & Support 
 
+
+
+
+## Frequently Asked Questions and Answers (FAQs)
 
 Contents:
 
