@@ -6,7 +6,7 @@
 Please, note so far this is an all-volunteer-effort from a single humble nobody (or is that a lunatic?). Anyways, just imagine how much more progress there could be if you join in and help out? What an idea. 
 
 
-> Note:  The FAQs are somewhat outdated, sorry (but what can I do? - see above). For now my focus is on... guess what? Yes, more automation to hand off more work to our ye good ol' friend - the computer - to get more football data updates (automagically). 
+> Note:  The FAQs are somewhat outdated, sorry (but what can I do? - see above). For now the focus is on... guess what? Yes, more automation to hand off more work to our ye good ol' friend - the computer - to get more football data updates (automagically). 
 
 
 
