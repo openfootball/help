@@ -6,7 +6,7 @@
 Please, note so far this is an all-volunteer-effort from a single humble nobody (or is that a lunatic?). Anyways, just imagine how much more progress there could be if you join in and help out? What an idea. 
 
 
-> Note:  The FAQs are somewhat outdated, sorry (but what can I do? - see above). For now my focus is on... guess what? Yes, more automation to hand off more work to our ye good ol' friend - the computer - to get more football data updates. 
+> Note:  The FAQs are somewhat outdated, sorry (but what can I do? - see above). For now my focus is on... guess what? Yes, more automation to hand off more work to our ye good ol' friend - the computer - to get more football data updates (automagically). 
 
 
 
@@ -17,7 +17,7 @@ Contents:
 - [Troubleshooting](#troubleshooting)
 - [Download Pre-Built Copies or Build Your Own](#download-pre-built-copies-or-build-your-own)
 - [Real-Time Result / Score HTTP JSON API Web Services](#real-time-result--score-http-json-api-web-services)
-- [Contribute / Update Match Scores, Schedules, Leagues](#contribute--update-match-scores-schedules-leagues)
+- [**Contribute / Update Match Scores, Schedules, Leagues**](#contribute--update-match-scores-schedules-leagues)
 - [League Standings / Stats](#league-standings--stats)
 - [Text Formats (Match Schedule / Player / Squads Mini Languages)](#text-formats-match-schedule--player--squads-mini-languages)
 - [Export Formats (JSON, CSV, SQL)](#export-formats-json-csv-sql)
