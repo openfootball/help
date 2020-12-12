@@ -9,6 +9,18 @@ Please, note so far this is an all-volunteer-effort from a single humble nobody 
 > Note:  The FAQs are somewhat outdated, sorry (but what can I do? - see above). For now the focus is on... guess what? Yes, more automation to hand off more work to our ye good ol' friend - the computer - to get more football data updates (automagically). 
 
 
+## Big thanks to the football.db Alumnis
+
+Thanks for helping with match score updates! Come back soon.
+
+[4lp](https://github.com/4lp) • 
+[bjoern3](https://github.com/bjoern3) •
+[Carl Svensson (aka cecomp64)](https://github.com/cecomp64) •
+[Jose Borja (aka Chakaitos)](https://github.com/Chakaitos)
+
+
+
+
 
 ## Frequently Asked Questions and Answers (FAQs)
 
