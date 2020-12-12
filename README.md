@@ -7,7 +7,7 @@ Please, note so far this is basically an all-volunteer-effort from a single humb
 
 
 
-> Note:  Sorry, the FAQS are somewhat outdated (but what can I do? - see above). 
+> Note:  The FAQS are somewhat outdated, sorry (but what can I do? - see above). 
 
 
 
