@@ -25,7 +25,16 @@ _Thanks for helping with match updates! Come back soon._
 [Kaspi](https://github.com/Kaspi) •
 [Kıvanç Çakmak (kivanccakmak)](https://github.com/kivanccakmak) •
 [Lari Kovanen (larkov)](https://github.com/larkov) •
-
+[lokomass](https://github.com/lokomass) •
+[Mahdi Taghizadeh (mahdi)](https://github.com/mahdi) •
+[Kevin Christopher Henry (marfire)](https://github.com/marfire) •
+[mgidon](https://github.com/mgidon) •
+[Michael O'Dell (mpodell)](https://github.com/mpodell) •
+[Gabriele N (noso2k1)](https://github.com/noso2k1) •
+[pratul-nayak](https://github.com/pratul-nayak) •
+[Rafael Pereira (rlpereira)](https://github.com/rlpereira) •
+[SDoehren](https://github.com/SDoehren) •
+[Stevie Howard (stvhwrd)](https://github.com/stvhwrd)
 
 
 
