@@ -7,37 +7,6 @@ Please, note so far this is an all-volunteer-effort from a single humble nobody 
 
 
 
-**Big thanks to the football.db Alumnis**
-
-_Thanks for helping with match updates! Come back soon._
-
-[4lp](https://github.com/4lp) • 
-[bjoern3](https://github.com/bjoern3) •
-[Carl Svensson (cecomp64)](https://github.com/cecomp64) •
-[Jose Borja (Chakaitos)](https://github.com/Chakaitos) •
-[David (davidavz)](https://github.com/davidavz) •
-[Dirk Gómez (dirkgomez)](https://github.com/dirkgomez) •
-[Enrique Lopez Magallon (enadol)](https://github.com/enadol) •
-[fchristysen](https://github.com/fchristysen) •
-[Tarek Amr (gr33ndata)](https://github.com/gr33ndata) •
-[Hidenobu Nagai (hidenobunagai)](https://github.com/hidenobunagai) •
-[Joe K (jokecamp)](https://github.com/jokecamp) •
-[Kaspi](https://github.com/Kaspi) •
-[Kıvanç Çakmak (kivanccakmak)](https://github.com/kivanccakmak) •
-[Lari Kovanen (larkov)](https://github.com/larkov) •
-[lokomass](https://github.com/lokomass) •
-[Mahdi Taghizadeh (mahdi)](https://github.com/mahdi) •
-[Kevin Christopher Henry (marfire)](https://github.com/marfire) •
-[mgidon](https://github.com/mgidon) •
-[Michael O'Dell (mpodell)](https://github.com/mpodell) •
-[Gabriele N (noso2k1)](https://github.com/noso2k1) •
-[pratul-nayak](https://github.com/pratul-nayak) •
-[Rafael Pereira (rlpereira)](https://github.com/rlpereira) •
-[SDoehren](https://github.com/SDoehren) •
-[Stevie Howard (stvhwrd)](https://github.com/stvhwrd)
-
-
-
 ## Frequently Asked Questions and Answers (FAQs)
 
 > Note:  The FAQs are somewhat outdated, sorry (but what can I do? - see above). For now the focus is on... guess what? Yes, more automation to hand off more work to our ye good ol' friend - the computer - to get more football data updates (automagically). 
@@ -200,6 +169,36 @@ Thu Jun/12 17:00   Brazil  3-1 (1-1)  Croatia
 ```
 
 That's it.
+
+**Big thanks to the football.db Alumnis**
+
+_Thanks for helping with match updates! Come back soon._
+
+[4lp](https://github.com/4lp) • 
+[bjoern3](https://github.com/bjoern3) •
+[Carl Svensson (cecomp64)](https://github.com/cecomp64) •
+[Jose Borja (Chakaitos)](https://github.com/Chakaitos) •
+[David (davidavz)](https://github.com/davidavz) •
+[Dirk Gómez (dirkgomez)](https://github.com/dirkgomez) •
+[Enrique Lopez Magallon (enadol)](https://github.com/enadol) •
+[fchristysen](https://github.com/fchristysen) •
+[Tarek Amr (gr33ndata)](https://github.com/gr33ndata) •
+[Hidenobu Nagai (hidenobunagai)](https://github.com/hidenobunagai) •
+[Joe K (jokecamp)](https://github.com/jokecamp) •
+[Kaspi](https://github.com/Kaspi) •
+[Kıvanç Çakmak (kivanccakmak)](https://github.com/kivanccakmak) •
+[Lari Kovanen (larkov)](https://github.com/larkov) •
+[lokomass](https://github.com/lokomass) •
+[Mahdi Taghizadeh (mahdi)](https://github.com/mahdi) •
+[Kevin Christopher Henry (marfire)](https://github.com/marfire) •
+[mgidon](https://github.com/mgidon) •
+[Michael O'Dell (mpodell)](https://github.com/mpodell) •
+[Gabriele N (noso2k1)](https://github.com/noso2k1) •
+[pratul-nayak](https://github.com/pratul-nayak) •
+[Rafael Pereira (rlpereira)](https://github.com/rlpereira) •
+[SDoehren](https://github.com/SDoehren) •
+[Stevie Howard (stvhwrd)](https://github.com/stvhwrd)
+
 </details>
 
 
