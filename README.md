@@ -9,16 +9,22 @@ Please, note so far this is an all-volunteer-effort from a single humble nobody 
 
 **Big thanks to the football.db Alumnis**
 
-Thanks for helping with match score updates! Come back soon.
+_Thanks for helping with match updates! Come back soon._
 
 [4lp](https://github.com/4lp) • 
 [bjoern3](https://github.com/bjoern3) •
 [Carl Svensson (cecomp64)](https://github.com/cecomp64) •
 [Jose Borja (Chakaitos)](https://github.com/Chakaitos) •
-[davidavz](https://github.com/davidavz) •
+[David (davidavz)](https://github.com/davidavz) •
 [Dirk Gómez (dirkgomez)](https://github.com/dirkgomez) •
 [Enrique Lopez Magallon (enadol)](https://github.com/enadol) •
 [fchristysen](https://github.com/fchristysen) •
+[Tarek Amr (gr33ndata)](https://github.com/gr33ndata) •
+[Hidenobu Nagai (hidenobunagai)](https://github.com/hidenobunagai) •
+[Joe K (jokecamp)](https://github.com/jokecamp) •
+[Kaspi](https://github.com/Kaspi) •
+[Kıvanç Çakmak (kivanccakmak)](https://github.com/kivanccakmak) •
+[Lari Kovanen (larkov)](https://github.com/larkov) •
 
 
 
