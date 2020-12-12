@@ -3,8 +3,7 @@
 
 ## Anybody out there?
 
-Please, note so far this is basically an all-volunteer-effort from a single humble nobody (or is that a lunatic?). Anyways, just imagine how much more progress there could be if you join in and help out? What an idea. 
-
+Please, note so far this is an all-volunteer-effort from a single humble nobody (or is that a lunatic?). Anyways, just imagine how much more progress there could be if you join in and help out? What an idea. 
 
 
 > Note:  The FAQS are somewhat outdated, sorry (but what can I do? - see above). 
